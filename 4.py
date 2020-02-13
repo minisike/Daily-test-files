@@ -21,6 +21,7 @@ def main():
 	t2.start()
 	print("\nthis is the perfect %s %s" %("iii",str(lb)))
 	print("\nName:%s lb:%s Height:%f" %("Aviad",str(lb),1.83))
+	print("you will be succeed")
 
 
 if __name__ == '__main__':
